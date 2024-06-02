@@ -7,13 +7,11 @@ import {
   DiNodejs,
   DiMongodb,
   DiPython,
-  DiGit,
   DiJava,
   DiHtml5,
   DiCss3,
 } from "react-icons/di";
 import { SiFirebase, SiC } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
