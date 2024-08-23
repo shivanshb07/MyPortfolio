@@ -13,6 +13,7 @@ function AboutCard() {
             <br />
             I am currently pursuing my Bacholers of Engineering in Computer
             Science
+            Currently Working as a Technical Project Associate at SalesCode.ai 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
